@@ -1,5 +1,7 @@
 # Descripción personal
-Buenas, mi nombre es Facundo Ezequiel Soriano Centarti. Mi legajo es 214.152-8.
+-Nombre: Facundo Ezequiel Soriano Centarti.
+
+-Legajo: 214.152-8
 # Gustos
 Me gusta mucho el fútbol y pasar tiempo con amigos. Me encanta también ver series y peliculas, mi serie favorita es Better Call Saul, y en pelis me gustan mucho las stop motion, como Coraline, pero mi favorita es el Silencio de los inocentes. Siento que es la película con el mejor villano que ví en mi vida.
 # Acerca de programación
